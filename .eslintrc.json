@@ -6,6 +6,12 @@
     "no-unused-vars": "warn",
     "no-console": "off",
     "func-names": "off",
-    "object-shorthand": "off"
+    "object-shorthand": "off",
+    "max-len": [
+      2,
+      {
+        "code": 80
+      }
+    ]
   }
 }
